@@ -1,0 +1,15 @@
+{
+  "repository": "module-maintenance-compliance-dart-mobile",
+  "capabilityKey": "liberusoftware/module-maintenance-compliance",
+  "presentation": "dart-mobile",
+  "package": "module_maintenance_compliance_dart_mobile",
+  "foundation": "module-boilerplate-dart-mobile",
+  "foundationCommit": "0656c212b36ef4f8ffd6fc74db4ac541268e7d31",
+  "canonicalPlan": "projects/maintenance/nextjs/compliance.md",
+  "presentationPlan": "projects/maintenance/features/compliance.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "maintenance"
+  ]
+}
